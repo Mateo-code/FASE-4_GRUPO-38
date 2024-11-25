@@ -1,0 +1,2200 @@
+[{
+  "_id": {
+    "$oid": "6743d052653b413dc6de157e"
+  },
+  "nombre": "Audífonos Inalámbricos 1",
+  "categoría": "Accesorios",
+  "precio": 85,
+  "descuento": 5,
+  "stock": 151,
+  "fecha_ingreso": "2024-02-02T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user1",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 1."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de157f"
+  },
+  "nombre": "Smartphone XL 5G 2",
+  "categoría": "Electrónica",
+  "precio": 960,
+  "descuento": 15,
+  "stock": 32,
+  "fecha_ingreso": "2024-03-03T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user2",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 2."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1580"
+  },
+  "nombre": "Laptop Pro 2024 3",
+  "categoría": "Electrónica",
+  "precio": 1215,
+  "descuento": 10,
+  "stock": 53,
+  "fecha_ingreso": "2024-04-04T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user3",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 3."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1581"
+  },
+  "nombre": "Audífonos Inalámbricos 4",
+  "categoría": "Accesorios",
+  "precio": 100,
+  "descuento": 5,
+  "stock": 154,
+  "fecha_ingreso": "2024-05-05T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user4",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 4."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1582"
+  },
+  "nombre": "Smartphone XL 5G 5",
+  "categoría": "Electrónica",
+  "precio": 975,
+  "descuento": 15,
+  "stock": 35,
+  "fecha_ingreso": "2024-06-06T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user5",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 5."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1583"
+  },
+  "nombre": "Laptop Pro 2024 6",
+  "categoría": "Electrónica",
+  "precio": 1230,
+  "descuento": 10,
+  "stock": 56,
+  "fecha_ingreso": "2024-07-07T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user6",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 6."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1584"
+  },
+  "nombre": "Audífonos Inalámbricos 7",
+  "categoría": "Accesorios",
+  "precio": 115,
+  "descuento": 5,
+  "stock": 157,
+  "fecha_ingreso": "2024-08-08T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user7",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 7."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1585"
+  },
+  "nombre": "Smartphone XL 5G 8",
+  "categoría": "Electrónica",
+  "precio": 990,
+  "descuento": 15,
+  "stock": 38,
+  "fecha_ingreso": "2024-09-09T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user8",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 8."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1586"
+  },
+  "nombre": "Laptop Pro 2024 9",
+  "categoría": "Electrónica",
+  "precio": 1245,
+  "descuento": 10,
+  "stock": 59,
+  "fecha_ingreso": "2024-10-10T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user9",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 9."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1587"
+  },
+  "nombre": "Audífonos Inalámbricos 10",
+  "categoría": "Accesorios",
+  "precio": 130,
+  "descuento": 5,
+  "stock": 150,
+  "fecha_ingreso": "2024-11-11T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user10",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 10."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1588"
+  },
+  "nombre": "Smartphone XL 5G 11",
+  "categoría": "Electrónica",
+  "precio": 1005,
+  "descuento": 15,
+  "stock": 31,
+  "fecha_ingreso": "2024-12-12T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user11",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 11."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1589"
+  },
+  "nombre": "Laptop Pro 2024 12",
+  "categoría": "Electrónica",
+  "precio": 1260,
+  "descuento": 10,
+  "stock": 52,
+  "fecha_ingreso": "2024-01-13T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user12",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 12."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de158a"
+  },
+  "nombre": "Audífonos Inalámbricos 13",
+  "categoría": "Accesorios",
+  "precio": 145,
+  "descuento": 5,
+  "stock": 153,
+  "fecha_ingreso": "2024-02-14T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user13",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 13."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de158b"
+  },
+  "nombre": "Smartphone XL 5G 14",
+  "categoría": "Electrónica",
+  "precio": 1020,
+  "descuento": 15,
+  "stock": 34,
+  "fecha_ingreso": "2024-03-15T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user14",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 14."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de158c"
+  },
+  "nombre": "Laptop Pro 2024 15",
+  "categoría": "Electrónica",
+  "precio": 1275,
+  "descuento": 10,
+  "stock": 55,
+  "fecha_ingreso": "2024-04-16T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user15",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 15."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de158d"
+  },
+  "nombre": "Audífonos Inalámbricos 16",
+  "categoría": "Accesorios",
+  "precio": 160,
+  "descuento": 5,
+  "stock": 156,
+  "fecha_ingreso": "2024-05-17T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user16",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 16."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de158e"
+  },
+  "nombre": "Smartphone XL 5G 17",
+  "categoría": "Electrónica",
+  "precio": 1035,
+  "descuento": 15,
+  "stock": 37,
+  "fecha_ingreso": "2024-06-18T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user17",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 17."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de158f"
+  },
+  "nombre": "Laptop Pro 2024 18",
+  "categoría": "Electrónica",
+  "precio": 1290,
+  "descuento": 10,
+  "stock": 58,
+  "fecha_ingreso": "2024-07-19T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user18",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 18."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1590"
+  },
+  "nombre": "Audífonos Inalámbricos 19",
+  "categoría": "Accesorios",
+  "precio": 175,
+  "descuento": 5,
+  "stock": 159,
+  "fecha_ingreso": "2024-08-20T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user19",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 19."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1591"
+  },
+  "nombre": "Smartphone XL 5G 20",
+  "categoría": "Electrónica",
+  "precio": 1050,
+  "descuento": 15,
+  "stock": 30,
+  "fecha_ingreso": "2024-09-21T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user20",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 20."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1592"
+  },
+  "nombre": "Laptop Pro 2024 21",
+  "categoría": "Electrónica",
+  "precio": 1305,
+  "descuento": 10,
+  "stock": 51,
+  "fecha_ingreso": "2024-10-22T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user21",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 21."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1593"
+  },
+  "nombre": "Audífonos Inalámbricos 22",
+  "categoría": "Accesorios",
+  "precio": 190,
+  "descuento": 5,
+  "stock": 152,
+  "fecha_ingreso": "2024-11-23T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user22",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 22."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1594"
+  },
+  "nombre": "Smartphone XL 5G 23",
+  "categoría": "Electrónica",
+  "precio": 1065,
+  "descuento": 15,
+  "stock": 33,
+  "fecha_ingreso": "2024-12-24T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user23",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 23."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1595"
+  },
+  "nombre": "Laptop Pro 2024 24",
+  "categoría": "Electrónica",
+  "precio": 1320,
+  "descuento": 10,
+  "stock": 54,
+  "fecha_ingreso": "2024-01-25T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user24",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 24."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1596"
+  },
+  "nombre": "Audífonos Inalámbricos 25",
+  "categoría": "Accesorios",
+  "precio": 205,
+  "descuento": 5,
+  "stock": 155,
+  "fecha_ingreso": "2024-02-26T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user25",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 25."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1597"
+  },
+  "nombre": "Smartphone XL 5G 26",
+  "categoría": "Electrónica",
+  "precio": 1080,
+  "descuento": 15,
+  "stock": 36,
+  "fecha_ingreso": "2024-03-27T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user26",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 26."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1598"
+  },
+  "nombre": "Laptop Pro 2024 27",
+  "categoría": "Electrónica",
+  "precio": 1335,
+  "descuento": 10,
+  "stock": 57,
+  "fecha_ingreso": "2024-04-28T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user27",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 27."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de1599"
+  },
+  "nombre": "Audífonos Inalámbricos 28",
+  "categoría": "Accesorios",
+  "precio": 220,
+  "descuento": 5,
+  "stock": 158,
+  "fecha_ingreso": "2024-05-01T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user28",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 28."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de159a"
+  },
+  "nombre": "Smartphone XL 5G 29",
+  "categoría": "Electrónica",
+  "precio": 1095,
+  "descuento": 15,
+  "stock": 39,
+  "fecha_ingreso": "2024-06-02T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user29",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 29."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de159b"
+  },
+  "nombre": "Laptop Pro 2024 30",
+  "categoría": "Electrónica",
+  "precio": 1350,
+  "descuento": 10,
+  "stock": 50,
+  "fecha_ingreso": "2024-07-03T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user30",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 30."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de159c"
+  },
+  "nombre": "Audífonos Inalámbricos 31",
+  "categoría": "Accesorios",
+  "precio": 235,
+  "descuento": 5,
+  "stock": 151,
+  "fecha_ingreso": "2024-08-04T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user31",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 31."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de159d"
+  },
+  "nombre": "Smartphone XL 5G 32",
+  "categoría": "Electrónica",
+  "precio": 1110,
+  "descuento": 15,
+  "stock": 32,
+  "fecha_ingreso": "2024-09-05T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user32",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 32."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de159e"
+  },
+  "nombre": "Laptop Pro 2024 33",
+  "categoría": "Electrónica",
+  "precio": 1365,
+  "descuento": 10,
+  "stock": 53,
+  "fecha_ingreso": "2024-10-06T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user33",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 33."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de159f"
+  },
+  "nombre": "Audífonos Inalámbricos 34",
+  "categoría": "Accesorios",
+  "precio": 250,
+  "descuento": 5,
+  "stock": 154,
+  "fecha_ingreso": "2024-11-07T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user34",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 34."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a0"
+  },
+  "nombre": "Smartphone XL 5G 35",
+  "categoría": "Electrónica",
+  "precio": 1125,
+  "descuento": 15,
+  "stock": 35,
+  "fecha_ingreso": "2024-12-08T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user35",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 35."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a1"
+  },
+  "nombre": "Laptop Pro 2024 36",
+  "categoría": "Electrónica",
+  "precio": 1380,
+  "descuento": 10,
+  "stock": 56,
+  "fecha_ingreso": "2024-01-09T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user36",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 36."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a2"
+  },
+  "nombre": "Audífonos Inalámbricos 37",
+  "categoría": "Accesorios",
+  "precio": 265,
+  "descuento": 5,
+  "stock": 157,
+  "fecha_ingreso": "2024-02-10T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user37",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 37."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a3"
+  },
+  "nombre": "Smartphone XL 5G 38",
+  "categoría": "Electrónica",
+  "precio": 1140,
+  "descuento": 15,
+  "stock": 38,
+  "fecha_ingreso": "2024-03-11T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user38",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 38."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a4"
+  },
+  "nombre": "Laptop Pro 2024 39",
+  "categoría": "Electrónica",
+  "precio": 1395,
+  "descuento": 10,
+  "stock": 59,
+  "fecha_ingreso": "2024-04-12T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user39",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 39."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a5"
+  },
+  "nombre": "Audífonos Inalámbricos 40",
+  "categoría": "Accesorios",
+  "precio": 280,
+  "descuento": 5,
+  "stock": 150,
+  "fecha_ingreso": "2024-05-13T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user40",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 40."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a6"
+  },
+  "nombre": "Smartphone XL 5G 41",
+  "categoría": "Electrónica",
+  "precio": 1155,
+  "descuento": 15,
+  "stock": 31,
+  "fecha_ingreso": "2024-06-14T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user41",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 41."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a7"
+  },
+  "nombre": "Laptop Pro 2024 42",
+  "categoría": "Electrónica",
+  "precio": 1410,
+  "descuento": 10,
+  "stock": 52,
+  "fecha_ingreso": "2024-07-15T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user42",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 42."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a8"
+  },
+  "nombre": "Audífonos Inalámbricos 43",
+  "categoría": "Accesorios",
+  "precio": 295,
+  "descuento": 5,
+  "stock": 153,
+  "fecha_ingreso": "2024-08-16T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user43",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 43."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15a9"
+  },
+  "nombre": "Smartphone XL 5G 44",
+  "categoría": "Electrónica",
+  "precio": 1170,
+  "descuento": 15,
+  "stock": 34,
+  "fecha_ingreso": "2024-09-17T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user44",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 44."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15aa"
+  },
+  "nombre": "Laptop Pro 2024 45",
+  "categoría": "Electrónica",
+  "precio": 1425,
+  "descuento": 10,
+  "stock": 55,
+  "fecha_ingreso": "2024-10-18T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user45",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 45."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ab"
+  },
+  "nombre": "Audífonos Inalámbricos 46",
+  "categoría": "Accesorios",
+  "precio": 310,
+  "descuento": 5,
+  "stock": 156,
+  "fecha_ingreso": "2024-11-19T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user46",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 46."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ac"
+  },
+  "nombre": "Smartphone XL 5G 47",
+  "categoría": "Electrónica",
+  "precio": 1185,
+  "descuento": 15,
+  "stock": 37,
+  "fecha_ingreso": "2024-12-20T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user47",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 47."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ad"
+  },
+  "nombre": "Laptop Pro 2024 48",
+  "categoría": "Electrónica",
+  "precio": 1440,
+  "descuento": 10,
+  "stock": 58,
+  "fecha_ingreso": "2024-01-21T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user48",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 48."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ae"
+  },
+  "nombre": "Audífonos Inalámbricos 49",
+  "categoría": "Accesorios",
+  "precio": 325,
+  "descuento": 5,
+  "stock": 159,
+  "fecha_ingreso": "2024-02-22T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user49",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 49."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15af"
+  },
+  "nombre": "Smartphone XL 5G 50",
+  "categoría": "Electrónica",
+  "precio": 1200,
+  "descuento": 15,
+  "stock": 30,
+  "fecha_ingreso": "2024-03-23T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user50",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 50."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b0"
+  },
+  "nombre": "Laptop Pro 2024 51",
+  "categoría": "Electrónica",
+  "precio": 1455,
+  "descuento": 10,
+  "stock": 51,
+  "fecha_ingreso": "2024-04-24T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user51",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 51."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b1"
+  },
+  "nombre": "Audífonos Inalámbricos 52",
+  "categoría": "Accesorios",
+  "precio": 340,
+  "descuento": 5,
+  "stock": 152,
+  "fecha_ingreso": "2024-05-25T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user52",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 52."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b2"
+  },
+  "nombre": "Smartphone XL 5G 53",
+  "categoría": "Electrónica",
+  "precio": 1215,
+  "descuento": 15,
+  "stock": 33,
+  "fecha_ingreso": "2024-06-26T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user53",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 53."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b3"
+  },
+  "nombre": "Laptop Pro 2024 54",
+  "categoría": "Electrónica",
+  "precio": 1470,
+  "descuento": 10,
+  "stock": 54,
+  "fecha_ingreso": "2024-07-27T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user54",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 54."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b4"
+  },
+  "nombre": "Audífonos Inalámbricos 55",
+  "categoría": "Accesorios",
+  "precio": 355,
+  "descuento": 5,
+  "stock": 155,
+  "fecha_ingreso": "2024-08-28T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user55",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 55."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b5"
+  },
+  "nombre": "Smartphone XL 5G 56",
+  "categoría": "Electrónica",
+  "precio": 1230,
+  "descuento": 15,
+  "stock": 36,
+  "fecha_ingreso": "2024-09-01T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user56",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 56."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b6"
+  },
+  "nombre": "Laptop Pro 2024 57",
+  "categoría": "Electrónica",
+  "precio": 1485,
+  "descuento": 10,
+  "stock": 57,
+  "fecha_ingreso": "2024-10-02T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user57",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 57."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b7"
+  },
+  "nombre": "Audífonos Inalámbricos 58",
+  "categoría": "Accesorios",
+  "precio": 370,
+  "descuento": 5,
+  "stock": 158,
+  "fecha_ingreso": "2024-11-03T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user58",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 58."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b8"
+  },
+  "nombre": "Smartphone XL 5G 59",
+  "categoría": "Electrónica",
+  "precio": 1245,
+  "descuento": 15,
+  "stock": 39,
+  "fecha_ingreso": "2024-12-04T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user59",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 59."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15b9"
+  },
+  "nombre": "Laptop Pro 2024 60",
+  "categoría": "Electrónica",
+  "precio": 1500,
+  "descuento": 10,
+  "stock": 50,
+  "fecha_ingreso": "2024-01-05T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user60",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 60."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ba"
+  },
+  "nombre": "Audífonos Inalámbricos 61",
+  "categoría": "Accesorios",
+  "precio": 385,
+  "descuento": 5,
+  "stock": 151,
+  "fecha_ingreso": "2024-02-06T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user61",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 61."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15bb"
+  },
+  "nombre": "Smartphone XL 5G 62",
+  "categoría": "Electrónica",
+  "precio": 1260,
+  "descuento": 15,
+  "stock": 32,
+  "fecha_ingreso": "2024-03-07T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user62",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 62."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15bc"
+  },
+  "nombre": "Laptop Pro 2024 63",
+  "categoría": "Electrónica",
+  "precio": 1515,
+  "descuento": 10,
+  "stock": 53,
+  "fecha_ingreso": "2024-04-08T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user63",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 63."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15bd"
+  },
+  "nombre": "Audífonos Inalámbricos 64",
+  "categoría": "Accesorios",
+  "precio": 400,
+  "descuento": 5,
+  "stock": 154,
+  "fecha_ingreso": "2024-05-09T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user64",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 64."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15be"
+  },
+  "nombre": "Smartphone XL 5G 65",
+  "categoría": "Electrónica",
+  "precio": 1275,
+  "descuento": 15,
+  "stock": 35,
+  "fecha_ingreso": "2024-06-10T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user65",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 65."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15bf"
+  },
+  "nombre": "Laptop Pro 2024 66",
+  "categoría": "Electrónica",
+  "precio": 1530,
+  "descuento": 10,
+  "stock": 56,
+  "fecha_ingreso": "2024-07-11T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user66",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 66."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c0"
+  },
+  "nombre": "Audífonos Inalámbricos 67",
+  "categoría": "Accesorios",
+  "precio": 415,
+  "descuento": 5,
+  "stock": 157,
+  "fecha_ingreso": "2024-08-12T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user67",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 67."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c1"
+  },
+  "nombre": "Smartphone XL 5G 68",
+  "categoría": "Electrónica",
+  "precio": 1290,
+  "descuento": 15,
+  "stock": 38,
+  "fecha_ingreso": "2024-09-13T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user68",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 68."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c2"
+  },
+  "nombre": "Laptop Pro 2024 69",
+  "categoría": "Electrónica",
+  "precio": 1545,
+  "descuento": 10,
+  "stock": 59,
+  "fecha_ingreso": "2024-10-14T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user69",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 69."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c3"
+  },
+  "nombre": "Audífonos Inalámbricos 70",
+  "categoría": "Accesorios",
+  "precio": 430,
+  "descuento": 5,
+  "stock": 150,
+  "fecha_ingreso": "2024-11-15T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user70",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 70."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c4"
+  },
+  "nombre": "Smartphone XL 5G 71",
+  "categoría": "Electrónica",
+  "precio": 1305,
+  "descuento": 15,
+  "stock": 31,
+  "fecha_ingreso": "2024-12-16T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user71",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 71."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c5"
+  },
+  "nombre": "Laptop Pro 2024 72",
+  "categoría": "Electrónica",
+  "precio": 1560,
+  "descuento": 10,
+  "stock": 52,
+  "fecha_ingreso": "2024-01-17T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user72",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 72."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c6"
+  },
+  "nombre": "Audífonos Inalámbricos 73",
+  "categoría": "Accesorios",
+  "precio": 445,
+  "descuento": 5,
+  "stock": 153,
+  "fecha_ingreso": "2024-02-18T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user73",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 73."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c7"
+  },
+  "nombre": "Smartphone XL 5G 74",
+  "categoría": "Electrónica",
+  "precio": 1320,
+  "descuento": 15,
+  "stock": 34,
+  "fecha_ingreso": "2024-03-19T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user74",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 74."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c8"
+  },
+  "nombre": "Laptop Pro 2024 75",
+  "categoría": "Electrónica",
+  "precio": 1575,
+  "descuento": 10,
+  "stock": 55,
+  "fecha_ingreso": "2024-04-20T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user75",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 75."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15c9"
+  },
+  "nombre": "Audífonos Inalámbricos 76",
+  "categoría": "Accesorios",
+  "precio": 460,
+  "descuento": 5,
+  "stock": 156,
+  "fecha_ingreso": "2024-05-21T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user76",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 76."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ca"
+  },
+  "nombre": "Smartphone XL 5G 77",
+  "categoría": "Electrónica",
+  "precio": 1335,
+  "descuento": 15,
+  "stock": 37,
+  "fecha_ingreso": "2024-06-22T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user77",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 77."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15cb"
+  },
+  "nombre": "Laptop Pro 2024 78",
+  "categoría": "Electrónica",
+  "precio": 1590,
+  "descuento": 10,
+  "stock": 58,
+  "fecha_ingreso": "2024-07-23T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user78",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 78."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15cc"
+  },
+  "nombre": "Audífonos Inalámbricos 79",
+  "categoría": "Accesorios",
+  "precio": 475,
+  "descuento": 5,
+  "stock": 159,
+  "fecha_ingreso": "2024-08-24T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user79",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 79."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15cd"
+  },
+  "nombre": "Smartphone XL 5G 80",
+  "categoría": "Electrónica",
+  "precio": 1350,
+  "descuento": 15,
+  "stock": 30,
+  "fecha_ingreso": "2024-09-25T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user80",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 80."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15ce"
+  },
+  "nombre": "Laptop Pro 2024 81",
+  "categoría": "Electrónica",
+  "precio": 1605,
+  "descuento": 10,
+  "stock": 51,
+  "fecha_ingreso": "2024-10-26T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user81",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 81."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15cf"
+  },
+  "nombre": "Audífonos Inalámbricos 82",
+  "categoría": "Accesorios",
+  "precio": 490,
+  "descuento": 5,
+  "stock": 152,
+  "fecha_ingreso": "2024-11-27T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user82",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 82."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d0"
+  },
+  "nombre": "Smartphone XL 5G 83",
+  "categoría": "Electrónica",
+  "precio": 1365,
+  "descuento": 15,
+  "stock": 33,
+  "fecha_ingreso": "2024-12-28T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user83",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 83."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d1"
+  },
+  "nombre": "Laptop Pro 2024 84",
+  "categoría": "Electrónica",
+  "precio": 1620,
+  "descuento": 10,
+  "stock": 54,
+  "fecha_ingreso": "2024-01-01T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user84",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 84."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d2"
+  },
+  "nombre": "Audífonos Inalámbricos 85",
+  "categoría": "Accesorios",
+  "precio": 505,
+  "descuento": 5,
+  "stock": 155,
+  "fecha_ingreso": "2024-02-02T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user85",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 85."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d3"
+  },
+  "nombre": "Smartphone XL 5G 86",
+  "categoría": "Electrónica",
+  "precio": 1380,
+  "descuento": 15,
+  "stock": 36,
+  "fecha_ingreso": "2024-03-03T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user86",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 86."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d4"
+  },
+  "nombre": "Laptop Pro 2024 87",
+  "categoría": "Electrónica",
+  "precio": 1635,
+  "descuento": 10,
+  "stock": 57,
+  "fecha_ingreso": "2024-04-04T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user87",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 87."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d5"
+  },
+  "nombre": "Audífonos Inalámbricos 88",
+  "categoría": "Accesorios",
+  "precio": 520,
+  "descuento": 5,
+  "stock": 158,
+  "fecha_ingreso": "2024-05-05T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user88",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 88."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d6"
+  },
+  "nombre": "Smartphone XL 5G 89",
+  "categoría": "Electrónica",
+  "precio": 1395,
+  "descuento": 15,
+  "stock": 39,
+  "fecha_ingreso": "2024-06-06T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user89",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 89."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d7"
+  },
+  "nombre": "Laptop Pro 2024 90",
+  "categoría": "Electrónica",
+  "precio": 1650,
+  "descuento": 10,
+  "stock": 50,
+  "fecha_ingreso": "2024-07-07T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user90",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 90."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d8"
+  },
+  "nombre": "Audífonos Inalámbricos 91",
+  "categoría": "Accesorios",
+  "precio": 535,
+  "descuento": 5,
+  "stock": 151,
+  "fecha_ingreso": "2024-08-08T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user91",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 91."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15d9"
+  },
+  "nombre": "Smartphone XL 5G 92",
+  "categoría": "Electrónica",
+  "precio": 1410,
+  "descuento": 15,
+  "stock": 32,
+  "fecha_ingreso": "2024-09-09T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user92",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 92."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15da"
+  },
+  "nombre": "Laptop Pro 2024 93",
+  "categoría": "Electrónica",
+  "precio": 1665,
+  "descuento": 10,
+  "stock": 53,
+  "fecha_ingreso": "2024-10-10T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user93",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 93."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15db"
+  },
+  "nombre": "Audífonos Inalámbricos 94",
+  "categoría": "Accesorios",
+  "precio": 550,
+  "descuento": 5,
+  "stock": 154,
+  "fecha_ingreso": "2024-11-11T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user94",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 94."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15dc"
+  },
+  "nombre": "Smartphone XL 5G 95",
+  "categoría": "Electrónica",
+  "precio": 1425,
+  "descuento": 15,
+  "stock": 35,
+  "fecha_ingreso": "2024-12-12T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user95",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 95."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15dd"
+  },
+  "nombre": "Laptop Pro 2024 96",
+  "categoría": "Electrónica",
+  "precio": 1680,
+  "descuento": 10,
+  "stock": 56,
+  "fecha_ingreso": "2024-01-13T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user96",
+      "calificación": 2,
+      "comentario": "Comentario del usuario 96."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15de"
+  },
+  "nombre": "Audífonos Inalámbricos 97",
+  "categoría": "Accesorios",
+  "precio": 565,
+  "descuento": 5,
+  "stock": 157,
+  "fecha_ingreso": "2024-02-14T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user97",
+      "calificación": 3,
+      "comentario": "Comentario del usuario 97."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15df"
+  },
+  "nombre": "Smartphone XL 5G 98",
+  "categoría": "Electrónica",
+  "precio": 1440,
+  "descuento": 15,
+  "stock": 38,
+  "fecha_ingreso": "2024-03-15T00:00:00Z",
+  "proveedor": {
+    "nombre": "MobileCorp",
+    "contacto": "mobilecorp@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user98",
+      "calificación": 4,
+      "comentario": "Comentario del usuario 98."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15e0"
+  },
+  "nombre": "Laptop Pro 2024 99",
+  "categoría": "Electrónica",
+  "precio": 1695,
+  "descuento": 10,
+  "stock": 59,
+  "fecha_ingreso": "2024-04-16T00:00:00Z",
+  "proveedor": {
+    "nombre": "Tech Solutions",
+    "contacto": "techsolutions@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user99",
+      "calificación": 5,
+      "comentario": "Comentario del usuario 99."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743d052653b413dc6de15e1"
+  },
+  "nombre": "Audífonos Inalámbricos 100",
+  "categoría": "Accesorios",
+  "precio": 580,
+  "descuento": 5,
+  "stock": 150,
+  "fecha_ingreso": "2024-05-17T00:00:00Z",
+  "proveedor": {
+    "nombre": "AudioTech",
+    "contacto": "audiotech@correo.com"
+  },
+  "opiniones": [
+    {
+      "usuario": "user100",
+      "calificación": 1,
+      "comentario": "Comentario del usuario 100."
+    }
+  ]
+}]
